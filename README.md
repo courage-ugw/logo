@@ -1,1 +1,1 @@
-# logo
+# KhorageNode logo
